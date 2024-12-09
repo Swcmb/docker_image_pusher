@@ -1,3 +1,4 @@
 judge0/judge0:1.13.1
 postgres:16.2
 redis:7.2.4
+judge0/compilers
